@@ -1,3 +1,3 @@
 # Table of content
 
-* [First Chapter](chapter1.md)
+* [Gentle Introduction to Jeden](chapter1.md)
