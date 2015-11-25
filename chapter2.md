@@ -39,5 +39,3 @@ The `teaser` release of the Jeden interpreter parses the following grammar.
     pat         ::= ident | '(' pat* ')'
     ident       ::= alphanum+
 ```
-
-
