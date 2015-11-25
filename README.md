@@ -20,4 +20,6 @@ If you find that some sections do not fulfill this contract, please send feedbac
 
 ## What is Jeden?
 
-“Jeden” is the Polish word for the number one. The language's name is a reference to the principle of Univalence. Univalence is the mathematical axiom stating that equality is equivalent to an equivalence. The statement may seem odd on a first reading, but will become familiar after studying it from multiple angles. From a programmer's perspective, univalence provides safe coercion between equivalent types and a useful framework for automatic code generation. From a mathematician's perspective, univalence is a powerful proof tool. The Jeden computer language is an attempt to unify these perspectives into one.
+Jeden is a computer language.
+
+“Jeden” is the Polish word for the number one. The language's name is a reference to the principle of Univalence. Univalence is the mathematical axiom stating that equality is equivalent to an equivalence. The statement may seem odd on a first reading, but will become familiar after studying it from multiple angles. From a programmer's perspective, univalence provides safe coercion between equivalent types and a useful framework for automatic code generation. From a mathematician's perspective, univalence is a powerful proof tool. The Jeden language is an attempt to unify these perspectives into one.
