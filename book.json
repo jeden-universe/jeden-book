@@ -1,1 +1,21 @@
-{}
+{
+	"title": "The Jeden Book",
+	"description": "Introduction to the World of the Jeden Computer Language",
+	"language": "en",
+
+	"plugins": ["madoko","autocover"],
+
+  "pluginsConfig": {
+    "autocover": {
+      "title": "The Jeden Book",
+      "author": "Nicolas Godbout",
+      "size": {
+        "w": 1800,
+        "h": 2360
+      },
+      "background": {
+        "color": "#09F"
+      }
+    }
+  }
+}
